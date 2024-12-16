@@ -1,7 +1,9 @@
 # Valgix
 
 
-### Repositories 
-Nextgen automated billing platform
+## Repositories 
 
-[Valgix Blazebill](https://github.com/valgixcenter/app) - Backend
+### BlazeBilling
+Next-gen automated billing platform for hosting-providers
+
+[Backend](https://github.com/valgixcenter/app)
