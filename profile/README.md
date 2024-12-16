@@ -1,5 +1,6 @@
 # Valgix
-Nextgen automated billing platform
+
 
 ### Repositories 
-[Valgix App](https://github.com/valgixcenter/app) - Backend
+Nextgen automated billing platform
+[Valgix Blazebill](https://github.com/valgixcenter/app) - Backend
