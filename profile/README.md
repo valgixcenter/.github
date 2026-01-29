@@ -13,7 +13,7 @@ Experience the power of our global infrastructure. Deploy virtual servers in sec
 - **Enterprise-grade hardware**: Powered by high-speed SSDs and premium network paths.
 - **Intuitive management**: A sleek, user-friendly dashboard that puts you in total command.
 
-### 🤖 Valgix AI agent: Your private sysadmin (Coming soon)
+### 🤖 Valgix AI agent: Your private sysadmin
 Imagine having a world-class system administrator available 24/7. Our upcoming AI agent takes cloud management to the next level by interacting directly with your VPS.
 - **Hands-free configuration**: Ask the AI to "Install Docker" or "Setup Nginx with SSL for example.com," and watch as it executes and configures everything for you.
 - **Direct VPS integration**: The AI doesn't just give advice; it can securely manage your server's environment to perform the tasks you request.
